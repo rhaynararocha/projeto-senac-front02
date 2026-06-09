@@ -1,4 +1,4 @@
-const API_BASE = 'https://tarefas-carlos.vercel.app';
+const API_BASE = 'https://tarefas-api-rhay.vercel.app';
 // const API_BASE = 'http://localhost:3000';
 
 const TOKEN_KEY = 'token-api-1234';
